@@ -2,6 +2,7 @@
 # Aluno: Luiz Felipe Fronchetti Dias RA: 1552309
 # 			João Martins Filho			 RA: 1552260
 #			Felipe Minorelli				 RA: 1551167
+
 import traceback
 import sys
 
@@ -129,6 +130,7 @@ print ("Conjunto Aceitacao: ", conjunto_aceitacao)
 print ("						")
 
 print ("--- AUTOMATO DE PILHA ---")
+print("A entrada deve ser com as letras separadas por espaço, exemplo: a b")
 sequencia = input('Escreva a sequencia desejada: ')
 sequencia = sequencia.split()
 print ("Sequencia: ",sequencia)

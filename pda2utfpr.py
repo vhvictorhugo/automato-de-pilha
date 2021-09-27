@@ -114,7 +114,7 @@ def set2list(dataset):
 
 if __name__ == "__main__":
 	if len(sys.argv) != 3:
-		print "Parametros insuficientes. Informe o nome de arquivo de entrada e o nome do arquivo de saida"
+		print ("Parametros insuficientes. Informe o nome de arquivo de entrada e o nome do arquivo de saida")
 		sys.exit(1)
 	converter = Jflap2Utfpr()
 	converter.convert(sys.argv[1], sys.argv[2], "epsilon")
