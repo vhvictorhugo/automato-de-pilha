@@ -1,3 +1,8 @@
+# Linguagens formais, automatos e computabilidade (BCC34B-IC4A)
+# Aluno: Luiz Felipe Fronchetti Dias RA: 1552309
+# 			João Martins Filho			 RA: 1552260
+#			Felipe Minorelli				 RA: 1551167
+
 # Linha 1: alfabeto de entrada
 # Linha 2: alfabeto da pilha
 # Linha 3: simbolo que representa epsilon (padroes: B ou epsilon)
